@@ -1,16 +1,16 @@
 /*======= Font =======*/
-@import url('https://fonts.googleapis.com/css?family=Changa&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Noto Serif&display=swap');
 /*==============================*/
 
 body{
 	background-color: #202124;
 }
 p{
-	text-align: right;
+	text-align: left;
 	color: white;
 	margin: 25px 20px;
 	font-size: 15px;
-	font-family: Changa;
+	font-family: Noto Serif;
 }
 img{
 	display: block;
@@ -22,7 +22,7 @@ h1{
 	color: white;
 	margin: 10px 20px;
 	font-size: 35px;
-	font-family: Changa;
+	font-family: Noto Serif;
 	padding-right: 15px;
 }
 .btn{
@@ -32,7 +32,7 @@ h1{
   transition-duration: 0.4s;
   cursor: pointer;
   margin: 15px 10px;
-  font-family: Changa;
+  font-family: Noto Serif;
 }
 
 .btn2 {
@@ -88,7 +88,7 @@ h1{
 footer{
 	background-color: #303134;
 	color: white;
-	font-family: Changa;
+	font-family: Noto Serif;
 	text-align: center;
 }
 iframe{
